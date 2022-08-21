@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         forgot_password = findViewById(R.id.forgot_password);
         circleImageView = findViewById(R.id.circleImageView);
         signin_signup_btn = findViewById(R.id.signin_signup_btn);
+        
         signin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -39,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
                 forgot_password.setVisibility(View.VISIBLE);
             }
         });
+        //SigUP Activity
         signup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -50,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 signin_signup_txt.setText("Sign Up");
                 signin_signup_btn.setText("Sign Up");
                 forgot_password.setVisibility(View.INVISIBLE);
+
 
 
             }
