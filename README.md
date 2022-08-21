@@ -27,15 +27,20 @@ This is an Android App made using java and android studio.This app is used to lo
 - XML 
 
 ## Installation
-
-- Clone the repository 
+- Fork the repository and clone it to your local machine
 - Run the app in Android Studio
 - Use below link to clone the repository in your local machine
 
 ```git clone
 https://github.com/Varshithvhegde/LoginUI.git
 ```
-
+- How to clone the repository in your local machine ckeck this [link](https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/)
 ## Demo Video 
 
 https://user-images.githubusercontent.com/80502833/185791286-225081c9-8a8c-4c05-a6ba-c80947b091ca.mp4
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
