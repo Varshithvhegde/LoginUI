@@ -36,6 +36,6 @@ This is an Android App made using java and android studio.This app is used to lo
 https://github.com/Varshithvhegde/LoginUI.git
 ```
 
-## Demo
+## Demo Video 
 
-
+https://user-images.githubusercontent.com/80502833/185791286-225081c9-8a8c-4c05-a6ba-c80947b091ca.mp4
