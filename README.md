@@ -35,3 +35,7 @@ This is an Android App made using java and android studio.This app is used to lo
 ```git clone
 https://github.com/Varshithvhegde/LoginUI.git
 ```
+
+## Demo
+
+
