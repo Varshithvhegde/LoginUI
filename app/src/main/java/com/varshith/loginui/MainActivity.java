@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
                 signin_signup_btn.setText("Sign Up");
                 forgot_password.setVisibility(View.INVISIBLE);
 
+
             }
         });
     }
